@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **pokhrelgopal27@gmail.com**
+- 📫 Reach me via **pokhrelgopal27@gmail.com**
 
 - ⚡ **I think my code is like poetry, a confusing mix of metaphors.**
 

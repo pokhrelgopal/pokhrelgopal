@@ -1,13 +1,13 @@
 
-- 🌱 I’m currently learning **React with Django**
+🌱 I’m currently learning **React with Django**
 
-- 👨‍💻 Some of my projects are available at [pokhrelgopal.com.np](pokhrelgopal.com.np)
+👨‍💻 Some of my projects are available at [pokhrelgopal.com.np](pokhrelgopal.com.np)
 
-- 💬 Ask me about **React**
+💬 Ask me about **React**
 
-- 📫 Reach me via **pokhrelgopal27@gmail.com**
+📫 Reach me via **pokhrelgopal27@gmail.com**
 
-- ⚡ **I think my code is like poetry, a confusing mix of metaphors.**
+⚡ **I think my code is like poetry, a confusing mix of metaphors.**
 
 <br>
 

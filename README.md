@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pokhrelgopal27@gmail.com**
 
-- ⚡ Fun fact **I think my code is like poetry... a confusing mix of metaphors.**
+- ⚡ **I think my code is like poetry, a confusing mix of metaphors.**
 
 <br>
 

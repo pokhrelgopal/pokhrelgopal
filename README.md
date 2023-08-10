@@ -12,13 +12,6 @@
 
 - ⚡ Fun fact **I think my code is like poetry... a confusing mix of metaphors.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pokhrelgopal" target="blank">
-   <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="#">

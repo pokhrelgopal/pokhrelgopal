@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Gopal Pokhrel</h1>
-<h3 align="center">Bachelor's in computer science student with a passion for programming. Self-taught programmer constantly seeking to learn and improve skills.</h3>
-
 
 - 🌱 I’m currently learning **React with Django**
 
@@ -12,7 +9,7 @@
 
 - ⚡ Fun fact **I think my code is like poetry... a confusing mix of metaphors.**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools and Programming Languages</h3>
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=js,ts,react,python,django,postgres,postman,php,mysql,git,nextjs,tailwind,redux" />

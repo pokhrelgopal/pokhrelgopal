@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gopal Pokhrel</h1>
 <h3 align="center">Bachelor's in computer science student with a passion for programming. Self-taught programmer constantly seeking to learn and improve skills.</h3>
 
-<p align="left"> <a href="https://twitter.com/@sandysince_1999" target="blank"><img src="https://img.shields.io/twitter/follow/@sandysince_1999?logo=twitter&style=for-the-badge" alt="@sandysince_1999" /></a> </p>
 
 - 🌱 I’m currently learning **React with Django**
 

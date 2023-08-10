@@ -35,5 +35,8 @@
 
 <div>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pokhrelgopal&show_icons=true&locale=en&layout=compact" alt="pokhrelgopal" />
+</div>
+<br>
+<div>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pokhrelgopal&" alt="pokhrelgopal" />
 </div>

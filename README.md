@@ -12,7 +12,7 @@
 <br>
 
 <p align="left">
- <a href="https://pokhrelgopal.com.np" target="blank">
+ <a href="https://pokhrelgopal.com.np" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://www.linkedin.com/in/pokhrelgopal/" target="_blank">

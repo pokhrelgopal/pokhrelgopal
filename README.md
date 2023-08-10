@@ -33,6 +33,7 @@
 </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pokhrelgopal&show_icons=true&locale=en&layout=compact" alt="pokhrelgopal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pokhrelgopal&" alt="pokhrelgopal" /></p>
+<div>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pokhrelgopal&show_icons=true&locale=en&layout=compact" alt="pokhrelgopal" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pokhrelgopal&" alt="pokhrelgopal" />
+</div>

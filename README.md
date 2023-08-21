@@ -1,7 +1,7 @@
 
 🌱 I’m currently learning **React with Django**
 
-👨‍💻 Some of my projects are available at [pokhrelgopal.com.np](pokhrelgopal.com.np)
+👨‍💻 Some of my projects are available here [pokhrelgopal.com.np](pokhrelgopal.com.np)
 
 💬 Ask me about **React**
 

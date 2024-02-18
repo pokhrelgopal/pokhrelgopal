@@ -1,13 +1,6 @@
-
-🌱 I’m currently learning **React with Django**
-
-👨‍💻 Some of my projects are available here [pokhrelgopal.com.np](pokhrelgopal.com.np)
-
-💬 Ask me about **React**
-
 📫 Reach me via **pokhrelgopal27@gmail.com**
 
-⚡ **I think my code is like poetry, a confusing mix of metaphors.**
+⚡ **I would tell you a joke about UDP, but you might not get it.**
 
 <br>
 

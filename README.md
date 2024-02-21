@@ -21,7 +21,7 @@
 <br>
 <p align="">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,python,django,postgres,postman,php,mysql,git,nextjs,tailwind,vite,redux,reactQuery" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,python,django,flask,postgres,postman,php,mysql,git,nextjs,tailwind,vite,redux,reactQuery" />
    
 </a>
 </p>
